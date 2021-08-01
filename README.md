@@ -8,20 +8,20 @@ $ https://github.com/prabin4456/wifi-hack-app-apk-store.git
 
 # wifi-brute-force
 
-*https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/wifi%20bruteforce.apk
+https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/wifi%20bruteforce.apk
 
 # Wibr+
 
-*https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/Wibe%2B.apk
+https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/Wibe%2B.apk
 
 # King-Root
 
-*https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/NewKingrootV4.9.6.apk
+https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/NewKingrootV4.9.6.apk
 
 # Androd Dumpper
 
-*https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/Androd%20Dumpper-3-11.apk
+https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/Androd%20Dumpper-3-11.apk
 
 # Airbrute
 
-*https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/AirBrute.apk
+https://github.com/prabin4456/wifi-hack-app-apk-store/blob/main/AirBrute.apk
